@@ -1,0 +1,29 @@
+{
+  "intern_name": "Vishwaa R",
+  "intern_email": "raghavanvasundhara262@gmail.com",
+  "project_code": "1B",
+  "project_title": "Multi-Agent Compliance Monitoring System",
+  "submission_type": "github",
+  "submission_date": "2026-09-06 19:30 IST",
+  "tech_stack": [
+    "Python",
+    "LangGraph (StateGraph)",
+    "LangChain",
+    "Pydantic v2",
+    "OpenAI/Anthropic/Groq",
+    "NumPy",
+    "pytest"
+  ],
+  "duration_days": 15,
+  "github_repo_url": "",
+  "assessment_criteria": {
+    "multi_agent_architecture": true,
+    "communication_protocol": true,
+    "conflict_resolution": true,
+    "escalation_framework": true,
+    "observability_logging": true,
+    "audit_trail": true,
+    "scenario_coverage": true,
+    "documentation": true
+  }
+}
